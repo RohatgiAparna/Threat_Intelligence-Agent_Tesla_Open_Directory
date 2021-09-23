@@ -1,0 +1,117 @@
+(y ,e
+*AsA
+*\CNormal
+... by Kwyjibo
+0046}#
+01p*
+1 To
+1,
+1Normal.Melissa
+1Table
+2.0#0#C:
+430-
+ADCL
+ADI1
+ActiveDocument
+AddFromString
+AddressEntries
+AddressLists
+Application
+Attachments_
+Attribut
+BreakUmOffASlice
+CommandBars
+CompObj
+ConfirmConversions
+Controls
+CreateItem
+CreateObject
+DasMapiNameg
+Do Wh`
+DoAD(
+DoNT
+DocumentSummaryInformation
+Document_Open
+Documentj
+Enabled
+FileNamej
+FullName
+GetNameSpaceC
+HKEY_CURRENT_USER\Software\Microsoft\Office\
+HKEY_CURRENT_USER\Software\Microsoft\Office\9.0\Word\Security
+H_.User
+Here is that document you asked for ... don't show anyone else ;-)
+Important Message From
+InsertLines
+Item
+Level
+Lines
+Logon
+MAPI
+MSWordDoc
+Macro
+Macros
+Melissa
+Melissa?
+MelissaQ
+NTCL
+NTI1
+Normal
+NormalTemplateq
+OfLines
+Office
+Options
+Outlook
+Outlook.Application
+PROJECT
+PROJECTwm
+Peep
+Peeps
+Private Sub Document_Close()
+Private Sub Document_Open()
+PrivateProfileString[
+Project
+Project-
+Recipients
+Root Entry
+SaveNormalPrompt
+Savedd
+Security...
+SelectionZ
+Send
+SummaryInformation
+ThisDocument<
+ToInfect
+Tools
+Twenty-two points, plus triple-word-score, plus fifty points for using all my letters.  Game's over.  I'm outta here.
+UngaDasOutlookH
+UserName\
+VBComponents
+WORD/Melissa written by Kwyjibo
+Win16
+Win32
+Word -> Email | Word 97 <--> Word 2000 ... it's a new age!
+Word.Document.8
+WordDocument
+Works in both Word 2000 and Word 97
+Worm? Macro Virus? Word 97 Virus? Word 2000 Virus? You Decide!
+\G{00020
+\r\n
+]ToInf@\t =@
+_Evaluate
+_VBA_PROJECT
+aMelissa
+e = "Mel
+e VB_Nam
+issa"\r\n
+ks iP
+mal.
+oAD0
+ole>
+pYCYA2
+password
+profile
+rstd
+stdole
+x1Nor
+|(0h
